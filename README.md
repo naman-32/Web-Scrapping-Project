@@ -1,4 +1,2 @@
 # Web-Scraping-Project
-Final scrapped data is list of cumulative runs scored by every ODI player in any year (1971 - 2019). <br>
-Beautiful Soup and Requests Library have been used.<br>
-Websites parsed are ESPN.com and wikipedia.
+Since finding relevant and structured data has become a crucial task in ML, this project provide an example how python based scraper libraries can help to extract lots of data from both simple websites (display and retrieval of information) such as Wikipedia and complex such as ESPN just by understanding their basic data structure. Final scrapped data is list of cumulative runs scored by every ODI player in any year (1971 - 2019) played from any country ever. Beautiful Soup and Requests libraries have been used in this project. 
